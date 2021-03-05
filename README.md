@@ -1,16 +1,48 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">Portofolio</div>
+      <div class="header-list">
+        <ul>
+          <li></li>
+          
+        </ul>
+      </div>
+    </div>
 
-<!--
-**akhyarul/akhyarul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <div class="main">
+      <div class="copy-container">
+        <h2>M AKHYARUL MUFID</h2>
+     
+      </div>
+      
+      <div class="contents">
+        <h3 class="section-title">Kelahiran : Surabaya,12 september 1999</h3>
+        <div class="contents-item">
+          
+      </div>
+      
+      <div class="contact-form">
+        <!-- Tambahkan tag <h3> dengan kelas "section-title" -->
+        <h3 class="section-title">Follow On IG : Akhyarul.real</h3>
+        
+        
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <div class="footer">
+      <div class="footer-logo">M Akhyarul Mufid</div>
+      <div class="footer-list">
+        <ul>
+          <li>Tentang</li>
+          <li>Karier</li>
+          <li>Social media</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
