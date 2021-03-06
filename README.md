@@ -32,15 +32,15 @@
       <div class="contents">
         <h3><a id="work-link">Proyek Contoh</a></h3>
         <div class="contents-item">
-          <img src="images/1.png">
+          <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.tripcetera.com%2Fid%2Fwp-content%2Fuploads%2F2020%2F10%2FDanau-Toba-edited.jpg&imgrefurl=https%3A%2F%2Fblog.tripcetera.com%2Fid%2Fpemandangan-alam-indonesia%2F&tbnid=QnC4c6752DmNwM&vet=12ahUKEwi40onwr5rvAhU46nMBHYSbAgYQMygBegUIARCuAQ..i&docid=nZydzTFRbjFeMM&w=1494&h=997&q=pemandangan%20alam&safe=strict&ved=2ahUKEwi40onwr5rvAhU46nMBHYSbAgYQMygBegUIARCuAQ">
           <p>Image 1</p>
         </div>
         <div class="contents-item">
-          <img src="images/2.png">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtFupSje4Ay7aeQtxuCat2aKy6fij6aFtMw&usqp=CAU">
           <p>Image 2</p>
         </div>
         <div class="contents-item">
-          <img src="images/3.png">
+          <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2019%2Fgalaxy.jpg&imgrefurl=https%3A%2F%2Fphys.org%2Fnews%2F2021-02-brightest-cluster-galaxy-macs-.html&tbnid=IB_Kd_fR0sbOfM&vet=12ahUKEwj7qZeisJrvAhWz_TgGHTcABz0QMygTegUIARDVAQ..i&docid=YUBUSedKVnCFMM&w=800&h=530&q=gambar%20galaxy&safe=strict&ved=2ahUKEwj7qZeisJrvAhWz_TgGHTcABz0QMygTegUIARDVAQ">
           <p>Image 3</p>
         </div>
         
